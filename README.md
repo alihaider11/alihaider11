@@ -1,17 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), i'm Ali Haider <img src="https://komarev.com/ghpvc/?username=alihaider11&label=Profile%20views&color=0e75b6&style=flat" alt="alihaider11" />
+Hi <img style="width:30px;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hand waving" /> I'm Ali Haider <img src="https://komarev.com/ghpvc/?username=alihaider11&label=Profile%20views&color=0e75b6&style=flat" alt="alihaider11" />
 ==================================================================================================================================
 
-<p align="left">
-  👋 Hey there! I’m a passionate Software Engineer with a love for all things C# and .NET. My journey in the world of code has taken me through various realms—from classic WinForms to the sleek world of WPF, and even the modern and versatile UWP. But wait, there’s more! I’ve also dabbled in the exciting universe of MAUI (that’s .NET Multi-platform App UI) and the web-friendly vibes of Blazor.
+I’m a passionate **Software Engineer** with a love for all things **C#** and **.NET**. My journey in the world of code has taken me through various realms from classic <b>WinForms</b> to the sleek world of <b>WPF</b>, and even the modern and versatile <b>UWP</b>. But wait, there’s more! I’ve also dabbled in the exciting universe of <b>MAUI</b> (that’s <b>.NET Multi-platform App UI</b>) and the web-friendly vibes of <b>Blazor</b>.
 
-🚀 When I’m not typing away at my keyboard, you’ll find me architecting microservices, optimizing CI/CD pipelines, and orchestrating container-based services using Docker and Kubernetes. Yep, I’m that person who gets unreasonably excited about well-organized code and seamless deployments.
+🚀 When I’m not typing away at my keyboard, you’ll find me architecting **microservices**, optimizing **CI/CD pipelines**, and orchestrating container-based services using **Docker** and **Kubernetes**. Yep, I’m that person who gets unreasonably excited about well-organized code and seamless deployments.
 
-🎥 Now, here’s the fun part: I’m also a content creator! While I’m currently on a break, I’m diligently preparing and figuring out content that’ll soon hit the interwebs. Expect videos on C# new features, coding tips, and maybe even a dash of tech humor. 🎬
+🎥 Now, here’s the fun part: I’m also a content creator! While I’m currently on a break, I’m diligently preparing and figuring out content that’ll soon hit the interwebs. Expect videos on **C#** new features, coding tips, and maybe even a dash of tech humor. 🎬
 
-🌟 So whether it’s wrangling databases with Dapper or dancing with EF Core, I’m here to turn code into magic. Wish me luck on this creative journey, and stay tuned for what’s coming! 💻✨
+🌟 So whether it’s wrangling databases with **Dapper** or dancing with **EF Core**, I’m here to turn code into magic. Wish me luck on this creative journey, and stay tuned for what’s coming! 💻✨
 
 And hey, good luck! 🍀 Take your time, recharge those creative batteries, and when you’re ready, unleash your content wizardry upon the world. If there’s anything else you’d like to add or adjust, just let me know—I’m all ears! 😊👍
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
